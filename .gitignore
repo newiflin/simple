@@ -1,0 +1,18 @@
+# Maven #
+target/
+
+
+#IDEA #
+
+.idea/
+
+*.iml
+
+
+# Eclipsee #
+
+.settings/
+
+.classpath
+
+.project
